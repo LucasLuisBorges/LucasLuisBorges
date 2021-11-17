@@ -11,13 +11,11 @@
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/700007152978493522/900916004765446164/15251b6d05077478709c4797614860db.gif">
 </div>
   
 ##
   
-<div> 
- 	<a href="https://app.slack.com/client/T1EEGNUP4/C1H0VLN56/user_profile/U01JZ155ZBQ" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
+<div>
   <a href = "mailto:lucasluisborges1205@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasluisborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
