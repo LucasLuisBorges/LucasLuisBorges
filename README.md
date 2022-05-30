@@ -1,5 +1,3 @@
-### Hi, I'm Lucas Luis Borges
-
 <div align="center">
   <a href="https://github.com/LucasLuisBorges">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=LucasLuisBorges&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
