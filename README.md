@@ -2,8 +2,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/lucasluisborges.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lucasluisborges?tab=followers) 
 [![Instagram Follow](https://img.shields.io/badge/-E4405F?style=social&label=Instagram&logo=instagram)](https://www.instagram.com/llborgesss/)
-[![Gmail](https://img.shields.io/badge/-%23333?label=Gmail&style=social&logo=gmail)](https://www.instagram.com/llborgesss/)
-[![Linkedin](https://img.shields.io/badge/-%230077B5?style=social&label=Linkedin&logo=linkedin)](https://www.instagram.com/llborgesss/)
+[![Gmail](https://img.shields.io/badge/-%23333?label=Gmail&style=social&logo=gmail)](mailto:lucasluisborges1205@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-%230077B5?style=social&label=Linkedin&logo=linkedin)](https://www.linkedin.com/in/lucasluisborges/)
 
 💻 Full-Stack Developer 
 
