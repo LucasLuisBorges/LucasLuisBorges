@@ -19,6 +19,8 @@
 
 👨‍💻 Ready to deliver high-quality and scalable solutions 
 
+[Curriculum](https://drive.google.com/uc?id=1Hlla7SsY4rM9E64Xuquc4WKNCg1fRGQI&export=download)
+
 ![Snake animation](https://github.com/LucasLuisBorges/LucasLuisBorges/blob/output/github-contribution-grid-snake.svg)
 
 ##
