@@ -7,7 +7,7 @@
 
 💻 Full-Stack Developer 
 
-🔥 Specializing in React, Next.js, Node.js, and Django
+🔥 Specializing in React, Next.js and Node.js
 
 💻 Building dynamic and responsive web applications 
 
