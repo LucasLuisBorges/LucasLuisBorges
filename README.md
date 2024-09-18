@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-%23333?label=Gmail&style=social&logo=gmail)](mailto:lucasluisborges1205@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-%230077B5?style=social&label=Linkedin&logo=linkedin)](https://www.linkedin.com/in/lucasluisborges/)
 
-💻 FrontEnd Developer 
+💻 FullStack Developer 
 
 🔥 Specializing in React, Next.js and Node.js
 
