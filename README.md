@@ -18,7 +18,6 @@
 
 👨‍💻 Ready to deliver high-quality and scalable solutions 
 
-[Curriculum](https://drive.google.com/uc?id=1vOrmMkPbGxxB0jCkMqC-0h68UaFp21yX&export=download)
 
 ##
  
