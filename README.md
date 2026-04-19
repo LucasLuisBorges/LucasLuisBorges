@@ -21,6 +21,6 @@
 
 ##
  
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,html,css" />
 </p>
